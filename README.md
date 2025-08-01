@@ -18,3 +18,4 @@ CREATE TABLE transactions (
     transaction_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
+https://chatgpt.com/share/688c651e-829c-8009-bfb0-6e476d5d2b4b
